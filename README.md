@@ -1,2 +1,3 @@
 # Sorting-Algorithms
-Collection of all the sorting algorithms
+
+This repository is designed as a one-stop destination for the programs of all important sorting algorithms in various popular programming languages.
