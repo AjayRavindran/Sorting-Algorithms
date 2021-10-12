@@ -2,7 +2,7 @@
 // of Bubble sort
 import java.io.*;
 
-class BubbleSortTest
+class BubbleSort
 {
 	// An optimized version of Bubble Sort
 	static void bubbleSort(int arr[], int n)
